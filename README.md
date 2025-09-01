@@ -44,3 +44,11 @@ This project provides tangible evidence of the following skills relevant to a **
 
 ### Expected Output
 The console will output messages from both the main game thread (`[GAME]`) and the loader thread (`[LOADER]`). You will see the game simulating a 60 FPS loop while assets are loaded in the background.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2024 Mohamed Sobhy Elkharashy
